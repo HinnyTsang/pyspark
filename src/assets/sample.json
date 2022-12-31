@@ -1,0 +1,57 @@
+[
+    {
+        "user_id": "123456",
+        "domain": "apple.com",
+        "timestamp": "111111110"
+    },
+    {
+        "user_id": "123456",
+        "domain": "google.com",
+        "timestamp": "010111110"
+    },
+    {
+        "user_id": "123456",
+        "domain": "facebook.com",
+        "timestamp": "010101111"
+    },
+    {
+        "user_id": "123456",
+        "domain": "amazon",
+        "timestamp": "010101111"
+    },
+    {
+        "user_id": "123456",
+        "domain": "microsoft.com",
+        "timestamp": "010111111"
+    },
+    {
+        "user_id": "234567",
+        "domain": "apple.com",
+        "timestamp": "110101010"
+    },
+    {
+        "user_id": "234567",
+        "domain": "google.com",
+        "timestamp": "011101010"
+    },
+    {
+        "user_id": "234567",
+        "domain": "netflix.com",
+        "timestamp": "010111110"
+    },
+    {
+        "user_id": "431",
+        "domain": "telegram.com",
+        "timestamp": "010101111"
+    },
+    {
+        "user_id": "431",
+        "domain": "pokemon.com",
+        "timestamp": "010101110"
+    },
+    {
+        "user_id": "431",
+        "domain": "digimon.com",
+        "timestamp": "111101010"
+    }
+]
